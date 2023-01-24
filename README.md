@@ -7,6 +7,8 @@
 - [Descripción y contexto](#descripción-y-contexto)
 - [Guía de usuario](#guía-de-usuario)
 - [Guía de instalación](#guía-de-instalación)
+- [Despliegue](#Despliegue)
+- [Construido con](#Construido-con)
 - [Información adicional](#información-adicional)
 - [Licencia](#licencia)
 - [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
@@ -37,7 +39,7 @@ Da un ejemplo
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
  	
-## Guía de instalación 🔧
+## Guía de instalación  🔧
 ---
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
