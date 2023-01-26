@@ -1,5 +1,5 @@
 
-<h1 align="center">HateSpeech-Predictor (NPL con python) -- EN DESARROLLO</h1>
+<h1 align="center">HateSpeech-Predictor (NPL-Analisis de sentimientos con python/ DJANGO / ML y Redes neuronales ) -- EN DESARROLLO</h1>
 <p align="center"><img src=""/></p> 
 
 ## Tabla de contenidos:
@@ -16,9 +16,13 @@
 
 ## Descripción y contexto
 ---
-Esto es un archivo README. Debe contener la documentación de soporte uso de la herramienta digital. Las siguientes secciones son las secciones recomendadas que debes poner incluir en cualquier herramienta digital. Puedes descargar este archivo para que te sirva como plantilla.
 
-Asegúrate de empezar este archivo con una breve descripción sobre las funcionalidades y contexto de la herramienta digital. Sé conciso y al grano.
+Se desarrolla una solucion de Procesamiento del lenguaje natural con Inteligencia Artificial aplicada al analisis de sentimientos. 
+El objetivos es analizar un conjunto de comentarios perteneciente a un video de un canal de  Youtube y poder detectar aquellos comentarios que sean de odio.
+
+La solución propuesta es desarrollar un modelo predictivo usando Machine Learning (Aprendizaje supervisado) a través de un algoritmo de clasificacion en primera instancia, y en función de su rendimiento, si es necesario implementar una solucion basado en una red neuronal. 
+
+Una vez obtenido el modelo óptimo para detectar comentarios de odio, se creará la aplicación cliente que consumirá dicho modelo , mediante una interfaz web. La aplicación cliente web será desarrollada con el framework de python DJANGO. Esta aplicación permitirá el ingreso por parte del usuario de la URL que contiene el video de youtube, a fin de extraer sus comentarios, los cuales serán preprocesados y enviados a la aplicación del lado del servidor, donde el modelo de ML los analizará y detectará si existen comentarios de odio. Finalmente, enviará esta informacion para que sea visualizada por el usario en la interfaz web
 
 ## Guía de usuario
 ---
