@@ -1,5 +1,5 @@
 
-<h1 align="center">HateSpeech-Predictor (NPL-Analisis de sentimientos con python/ DJANGO / ML y Redes neuronales ) -- EN DESARROLLO</h1>
+<h1 align="center">HateSpeech-Predictor (NPL-Analisis de sentimientos con python/ DJANGO / ML y Redes neuronales ) ((EN DESARROLLO))</h1>
 <p align="center"><img src=""/></p> 
 
 ## Tabla de contenidos:
